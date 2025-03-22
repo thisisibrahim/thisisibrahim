@@ -5,7 +5,8 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, con
 
 I enjoy collaborating on open-source projects, tackling complex problems, and continuously learning new technologies. Let’s connect and innovate together!
 
- 🌐 Connect with Me
+ 🌐 Connect with Me :-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-ibrahim-khan-a6701b28a/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thisisibrahim_)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ibrahim.ltd/)
