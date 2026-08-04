@@ -1,24 +1,162 @@
-# 💫 About Me:
-Hey there,Ibrahim this side!
-Cloud & Data Science Enthusiast | Full-Stack Developer | Open Source Contributor
+<h1 align="center">Hi 👋, I'm Ibrahim</h1>
 
-Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and learning experiences. I am passionate about transforming data into meaningful insights, building scalable applications, and leveraging cloud technologies to create impactful solutions.
+<h3 align="center">
+Software Engineer | AI & Machine Learning | Backend Development
+</h3>
 
-I enjoy collaborating on open-source projects, tackling complex problems, and continuously learning new technologies.Let’s connect and innovate together
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=thisisibrahim&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="thisisibrahim"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=thisisibrahim&theme=flat&no-frame=true&row=1&column=6"
+    alt="GitHub trophies"
+  />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ibrahim.ltd) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrahim.ltd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thisisibrahim_) 
+## About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white)
+- Software Engineer interested in backend development, AI and machine learning.
+- Currently working on RAG systems, document intelligence and software projects.
+- Exploring open-source development and collaborative engineering.
+- Interested in Python, FastAPI, Django, PostgreSQL and modern AI systems.
+- Reach me through LinkedIn or email.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thisisibrahim&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thisisibrahim&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisibrahim&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Connect with Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
+
+## 🛠️ Languages and Tools
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40"><br/>
+      Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40"><br/>
+      Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=django" width="40" height="40"><br/>
+      Django
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"><br/>
+      FastAPI
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"><br/>
+      PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"><br/>
+      Docker
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40"><br/>
+      React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40"><br/>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40"><br/>
+      HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40"><br/>
+      CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40"><br/>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40"><br/>
+      GitHub
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"><br/>
+      Linux
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"><br/>
+      AWS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"><br/>
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=idea" width="40" height="40"><br/>
+      IntelliJ IDEA
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"><br/>
+      Postman
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"><br/>
+      Figma
+    </td>
+  </tr>
+</table>
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thisisibrahim&show_icons=true&theme=react"
+    alt="GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=thisisibrahim&theme=react"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisibrahim&layout=compact&theme=react"
+    alt="Top languages"
+  />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thisisibrahim&theme=react-dark"
+    alt="GitHub activity graph"
+  />
+</p>
