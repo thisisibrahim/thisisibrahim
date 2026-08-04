@@ -105,7 +105,55 @@ Tech Stack
 <img src="https://img.shields.io/badge/NumPy-21262D?style=flat-square&logo=numpy" />
 
 </div>
+## Tech Stack
 
+<div align="center">
+
+<table>
+
+<tr>
+<td align="right" width="22%"><b>AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-Transformers-8A2BE2?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" height="42"/>
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Frameworks</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,django&theme=dark" height="42"/>
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&theme=dark" height="42"/>
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="42"/>
+</td>
+</tr>
+
+</table>
+
+</div>
 OPEN SOURCE :
 
 I use open source as a way to understand real codebases rather than only building isolated projects.
