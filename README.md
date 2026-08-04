@@ -26,7 +26,7 @@ AI/ML Engineer · Full-Stack Developer · Cloud
 
 </div>
 
-About
+ABOUT :
 
 I am a Computer Science undergraduate focused on building AI-powered software that works beyond the notebook.
 
@@ -47,7 +47,7 @@ RAG-powered applications and practical AI systems.
 
 Interested in
 
-LLMs, NLP, computer vision, backend engineering and cloud.
+LLMs, NLP, computer vision, backend engineering and Cloud.
 
 </td>
 <td width="33%" valign="top">
@@ -106,69 +106,7 @@ Tech Stack
 
 </div>
 
-Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-MedSenseAI
-
-Medical Report Understanding Assistant
-
-A safety-first system for turning medical reports into understandable explanations using structured parsing and retrieval-augmented generation.
-
-RAG · LangChain · Python · NLP
-
-Extracts structured medical test information
-
-Retrieves supporting medical context
-
-Generates patient-friendly explanations
-
-Includes risk-level triage and safety guardrails
-
-Supports Hindi and English output
-
-</td>
-
-<td width="50%" valign="top">
-
-LearnX
-
-AI Debate Practice Platform
-
-An interactive application designed to help users practise structured debate and communication.
-
-Angular · JavaScript · Web Speech API
-
-Browser-based speech recognition
-
-Timed debate sessions
-
-Argument and clarity feedback
-
-Responsive application interface
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-Coronary CT Microcalcification Detection
-
-Deep Learning for Medical Imaging
-
-Research-oriented computer vision work for detecting coronary microcalcifications from CT scans using CNN-based architectures.
-
-Python · CNN · ResNet-50 · U-Net · Computer Vision
-
-</td>
-</tr>
-</table>
-
-Open Source
+OPEN SOURCE :
 
 I use open source as a way to understand real codebases rather than only building isolated projects.
 
@@ -179,9 +117,6 @@ read the codebase  →  reproduce the issue  →  add a test  →  fix  →  ver
 GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thisisibrahim&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisibrahim&layout=compact&hide_border=true&theme=github_dark" />
 
 <br/><br/>
 
