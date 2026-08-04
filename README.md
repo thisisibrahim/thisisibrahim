@@ -60,52 +60,7 @@ Build → test → break → understand → improve.
 </tr>
 </table>
 
-Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="right"><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" height="44" />
-</td>
-</tr>
-
-<tr>
-<td align="right"><b>Application</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,django&theme=dark" height="44" />
-</td>
-</tr>
-
-<tr>
-<td align="right"><b>Cloud & DevOps</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&theme=dark" height="44" />
-</td>
-</tr>
-
-<tr>
-<td align="right"><b>Data</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="44" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/RAG-21262D?style=flat-square" />
-<img src="https://img.shields.io/badge/LangChain-21262D?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-21262D?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer_Vision-21262D?style=flat-square" />
-<img src="https://img.shields.io/badge/scikit--learn-21262D?style=flat-square&logo=scikitlearn" />
-<img src="https://img.shields.io/badge/Pandas-21262D?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-21262D?style=flat-square&logo=numpy" />
-
-</div>
-## Tech Stack
+~Technologies i work with:
 
 <div align="center">
 
@@ -154,6 +109,8 @@ Tech Stack
 </table>
 
 </div>
+
+
 OPEN SOURCE :
 
 I use open source as a way to understand real codebases rather than only building isolated projects.
