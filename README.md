@@ -2,7 +2,7 @@
 
 Mohammad Ibrahim Khan
 
-AI/ML Engineer · Full-Stack Developer · Cloud
+AI/ML Engineer · Data Scientist · Cloud
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=19&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=780&height=45&lines=Building+RAG-powered+applications+and+intelligent+systems;Turning+ML+experiments+into+usable+software;Working+across+AI%2C+backend%2C+frontend+and+cloud;Learning+in+public+through+open-source+contributions" alt="Typing SVG" />
 
